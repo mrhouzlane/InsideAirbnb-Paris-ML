@@ -28,3 +28,10 @@ On the 2020 - 2021 dataset, prediction of airbnb listing prices on the listing d
 Popincourt and Elysée districts.
 
 ```
+
+### Dataset :
+
+http://data.insideairbnb.com/france/ile-de-france/paris/2020-12-14/data/listings.csv.gz
+
+http://data.insideairbnb.com/france/ile-de-france/paris/2020-12-14/calendar.csv.gz
+
